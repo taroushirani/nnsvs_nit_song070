@@ -2,7 +2,7 @@
 
 This is the collection of helper scripts to make use of [NIT_SONG070 training demo of HTS](http://hts.sp.nitech.ac.jp/?Download) from DNN-based singing voice synthesis (SVS) systems. Almost all codes are derived from [kiritan_singing](https://github.com/r9y9/kiritan_singing).
 
-This is my study work to inspect the data preparation flow of [NNSVS](https://github.com/r9y9/nnsvs) and may not be useful for almost everyone
+This is my study work to inspect the data preparation flow of [NNSVS](https://github.com/r9y9/nnsvs) and may not be useful for almost anyone.
 
 
 ## Requirements
